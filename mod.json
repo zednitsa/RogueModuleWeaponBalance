@@ -1,0 +1,16 @@
+{
+    "Name": "Rogue Vanilla Weapons Module",
+    "Enabled": true,
+
+    "Version": "0.1.1",
+    "Description": "Vanilla Weapons rebalance module for Rogue Battletech",
+    "Author": "LadyAlekto",
+    "Website": "https://www.nexusmods.com/battletech/mods/79",
+    "Contact": "fakeemail@fakeemail.com",
+	
+	"ConflictsWith": [ "RogueTech Enhanced", "RogueTech Enhanced Clans"],
+	
+		    "Manifest": [
+	        { "Type": "WeaponDef", "Path": "weapons" },
+    ],
+}
