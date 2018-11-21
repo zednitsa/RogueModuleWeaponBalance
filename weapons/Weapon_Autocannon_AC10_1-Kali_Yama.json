@@ -3,7 +3,7 @@
 	"Custom": {
         "BonusDescriptions": {
             "Bonuses": [
-				"ACDamage: +5",
+				"ACDamage: +10",
 				"WpnRecoil: 2",
 				"IsAC"
             ]
@@ -26,7 +26,7 @@
     "AmmoCategory" : "AC10",
     "StartingAmmoCapacity" : 0,
     "HeatGenerated" : 12,
-    "Damage" : 65,
+    "Damage" : 70,
     "OverheatedDamageMultiplier" : 0,
     "EvasiveDamageMultiplier" : 0,
     "EvasivePipsIgnored" : 0,

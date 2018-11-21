@@ -1,10 +1,9 @@
 {
 
 	"Custom": {
-		        "BonusDescriptions": {
+		"BonusDescriptions": {
             "Bonuses": [
 				"ACDamage: +10",
-				"WpnRecoil: +1",
 				"IsAC"
             ]
         },
@@ -36,7 +35,7 @@
     "CriticalChanceMultiplier" : 1,
     "AOECapable" : false,
     "IndirectFireCapable" : false,
-    "RefireModifier" : 1,
+    "RefireModifier" : 0,
     "ShotsWhenFired" : 1,
     "ProjectilesPerShot" : 1,
     "AttackRecoil" : 1,

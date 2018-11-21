@@ -3,7 +3,12 @@
 	"Custom": {
         "BonusDescriptions": {
             "Bonuses": [
+				"ACDamage: +30",
+                "WpnCrits: 75%",
 				"StabDamage: X2",
+                "Range: 32%",
+				"PipsIgnored: 2",
+				"WpnAccuracy: +3",
 				"WpnRecoil: 2",
 				"IsAC"
             ]
@@ -12,28 +17,28 @@
                 "SortKey" : "01003"
             }
 		},
-		
+
     "Category" : "Ballistic",
     "Type" : "Autocannon",
     "WeaponSubType" : "AC10",
     "MinRange" : 0,
-    "MaxRange" : 510,
+    "MaxRange" : 550,
     "RangeSplit" : [
-        150,
-        300,
-        450
+        170,
+        320,
+        490
     ],
     "AmmoCategory" : "AC10",
     "StartingAmmoCapacity" : 0,
     "HeatGenerated" : 12,
-    "Damage" : 60,
+    "Damage" : 90,
     "OverheatedDamageMultiplier" : 0,
     "EvasiveDamageMultiplier" : 0,
-    "EvasivePipsIgnored" : 0,
+    "EvasivePipsIgnored" : 2,
     "DamageVariance" : 0,
     "HeatDamage" : 0,
-    "AccuracyModifier" : 0,
-    "CriticalChanceMultiplier" : 1,
+    "AccuracyModifier" : -3,
+    "CriticalChanceMultiplier" : 1.75,
     "AOECapable" : false,
     "IndirectFireCapable" : false,
     "RefireModifier" : 2,
@@ -43,25 +48,25 @@
     "Instability" : 30,
     "WeaponEffectID" : "WeaponEffect-Weapon_AC10_Single",
     "Description" : {
-        "Cost" : 180000,
-        "Rarity" : 4,
+        "Cost" : 1480000,
+        "Rarity" : 7,
         "Purchasable" : true,
-        "Manufacturer" : "Mydron",
+        "Manufacturer" : "Sargus Yards",
         "Model" : "Heavy Autocannon",
-        "UIName" : "AC/10 + +",
-        "Id" : "Weapon_Autocannon_AC10_2-Mydron",
-        "Name" : "AC/10 + +",
+        "UIName" : "AC/10 + + + +",
+        "Id" : "Weapon_Autocannon_AC10_4-Sargus",
+        "Name" : "AC/10 + + + +",
         "Details" : "One of the most powerful and efficient weapons mounted in combat, AC/10s are known for their heavy damage and ability to stagger opponents. Like all Autocannon weaponry, AC/10s suffer from recoil effects from continuous fire.",
         "Icon" : "uixSvgIcon_weapon_Ballistic"
     },
-    "BonusValueA" : "",
-    "BonusValueB" : "",
+    "BonusValueA" : "+ 20D + 30SD",
+    "BonusValueB" : "+ 50%C + 5A + 80R",
     "ComponentType" : "Weapon",
     "ComponentSubType" : "Weapon",
     "PrefabIdentifier" : "AC10",
     "BattleValue" : 0,
     "InventorySize" : 3,
-    "Tonnage" : 12,
+    "Tonnage" : 9,
     "AllowedLocations" : "All",
     "DisallowedLocations" : "All",
     "CriticalComponent" : false,
@@ -71,7 +76,7 @@
     "ComponentTags" : {
         "items" : [
             "component_type_variant",
-            "component_type_variant2",
+            "component_type_variant4",
             "range_long"
         ],
         "tagSetSourceFile" : ""

@@ -3,9 +3,9 @@
 	"Custom": {
         "BonusDescriptions": {
             "Bonuses": [
+				"WpnAccuracy: -2",
 				"PipsIgnored: 1",
                 "Range: 16%",
-				"WpnRecoil: 3",
 				"IsAC"
             ]
         },	
@@ -33,11 +33,11 @@
     "EvasivePipsIgnored" : 1,
     "DamageVariance" : 0,
     "HeatDamage" : 0,
-    "AccuracyModifier" : 0,
+    "AccuracyModifier" : -2,
     "CriticalChanceMultiplier" : 1,
     "AOECapable" : false,
     "IndirectFireCapable" : false,
-    "RefireModifier" : 3,
+    "RefireModifier" : 2,
     "ShotsWhenFired" : 1,
     "ProjectilesPerShot" : 1,
     "AttackRecoil" : 3,

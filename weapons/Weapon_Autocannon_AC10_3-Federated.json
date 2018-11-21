@@ -3,11 +3,10 @@
 	"Custom": {
         "BonusDescriptions": {
             "Bonuses": [
-				"ACDamage: +5",
+				"ACDamage: +10",
                 "WpnCrits: 50%",
 				"StabDamage: X2",
-				"WpnRecoil: 4",
-				"WpnHeat: +4",
+				"WpnRecoil: 2",
 				"IsAC"
             ]
         },	
@@ -28,8 +27,8 @@
     ],
     "AmmoCategory" : "AC10",
     "StartingAmmoCapacity" : 0,
-    "HeatGenerated" : 16,
-    "Damage" : 65,
+    "HeatGenerated" : 12,
+    "Damage" : 70,
     "OverheatedDamageMultiplier" : 0,
     "EvasiveDamageMultiplier" : 0,
     "EvasivePipsIgnored" : 0,
@@ -39,7 +38,7 @@
     "CriticalChanceMultiplier" : 1.5,
     "AOECapable" : false,
     "IndirectFireCapable" : false,
-    "RefireModifier" : 4,
+    "RefireModifier" : 2,
     "ShotsWhenFired" : 1,
     "ProjectilesPerShot" : 1,
     "AttackRecoil" : 3,

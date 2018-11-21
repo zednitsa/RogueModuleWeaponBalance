@@ -4,7 +4,6 @@
         "BonusDescriptions": {
             "Bonuses": [
                 "WpnCrits: 50%",
-				"WpnHeat: +3",
 				"WpnRecoil: 2",
 				"IsAC"
             ]
@@ -26,7 +25,7 @@
     ],
     "AmmoCategory" : "AC10",
     "StartingAmmoCapacity" : 0,
-    "HeatGenerated" : 15,
+    "HeatGenerated" : 12,
     "Damage" : 60,
     "OverheatedDamageMultiplier" : 0,
     "EvasiveDamageMultiplier" : 0,

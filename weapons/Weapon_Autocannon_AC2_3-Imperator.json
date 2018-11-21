@@ -4,7 +4,8 @@
         "BonusDescriptions": {
             "Bonuses": [
 				"PipsIgnored: 1",
-				"WpnAccuracy: +2",
+				"WpnAccuracy: +4",
+				"StabDamage: X2",
 				"WpnCrits: 50%",
                 "Range: 16%",
 				"IsAC"
@@ -34,7 +35,7 @@
     "EvasivePipsIgnored" : 1,
     "DamageVariance" : 0,
     "HeatDamage" : 0,
-    "AccuracyModifier" : -2,
+    "AccuracyModifier" : -4,
     "CriticalChanceMultiplier" : 1.5,
     "AOECapable" : false,
     "IndirectFireCapable" : false,
@@ -42,7 +43,7 @@
     "ShotsWhenFired" : 1,
     "ProjectilesPerShot" : 1,
     "AttackRecoil" : 1,
-    "Instability" : 6.25,
+    "Instability" : 12.5,
     "WeaponEffectID" : "WeaponEffect-Weapon_AC2",
     "Description" : {
         "Cost" : 150000,

@@ -1,36 +1,54 @@
 {
+	"Custom": {
+        "BonusDescriptions": {
+            "Bonuses": [
+				"ACDamage: +15",
+				"StabDamage: X2",
+                "WpnAccuracy: +6",
+				"WpnCrits: 75%",
+                "Range: 32%",
+				"PipsIgnored: 2",
+				"WpnRecoil: 1",
+				"IsAC"
+            ]
+        },	
+            "InventorySorter" : {
+                "SortKey" : "01002"
+            }
+		},
+		
     "Category" : "Ballistic",
     "Type" : "Autocannon",
     "WeaponSubType" : "AC5",
     "MinRange" : 90,
-    "MaxRange" : 650,
+    "MaxRange" : 660,
     "RangeSplit" : [
-        360,
-        360,
-        650
+        220,
+        420,
+        600
     ],
     "AmmoCategory" : "AC5",
     "StartingAmmoCapacity" : 0,
-    "HeatGenerated" : 10,
+    "HeatGenerated" : 8,
     "Damage" : 60,
     "OverheatedDamageMultiplier" : 0,
     "EvasiveDamageMultiplier" : 0,
-    "EvasivePipsIgnored" : 0,
+    "EvasivePipsIgnored" : 2,
     "DamageVariance" : 0,
     "HeatDamage" : 0,
-    "AccuracyModifier" : -5,
-    "CriticalChanceMultiplier" : 1.5,
+    "AccuracyModifier" : -6,
+    "CriticalChanceMultiplier" : 1.75,
     "AOECapable" : false,
     "IndirectFireCapable" : false,
     "RefireModifier" : 1,
     "ShotsWhenFired" : 1,
-    "ProjectilesPerShot" : 6,
+    "ProjectilesPerShot" : 1,
     "AttackRecoil" : 2,
-    "Instability" : 35,
+    "Instability" : 22.5,
     "WeaponEffectID" : "WeaponEffect-Weapon_AC5",
     "Description" : {
         "Cost" : 1080000,
-        "Rarity" : 5,
+        "Rarity" : 7,
         "Purchasable" : true,
         "Manufacturer" : "Sargus Yards",
         "Model" : "Tactical Autocannon",
