@@ -34,9 +34,9 @@
         "Purchasable" : true,
         "Manufacturer" : "LongFire",
         "Model" : "Long-Range Missile Launcher",
-        "UIName" : "LRM20 +",
+        "UIName" : "LRM25 +",
         "Id" : "Weapon_LRM_LRM25_1-LongFire",
-        "Name" : "LRM20 +",
+        "Name" : "LRM25 +",
         "Details" : "Mostly used as a dedicated artillery platform, the LRM25 racks of long-range missiles are specifically designed for support mechs within a lance to soften up targets before the engagement proper. Like all LRMs, LRM25s are capable of indirect fire over obstacles and terrain with the benefit of a spotter unit.",
         "Icon" : "uixSvgIcon_weapon_Missile"
     },
