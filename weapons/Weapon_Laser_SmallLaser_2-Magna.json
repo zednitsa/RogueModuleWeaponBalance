@@ -4,7 +4,6 @@
 	        "BonusDescriptions": {
             "Bonuses": [
                 "LaserDamage: +10",
-				"WpnHeat: +4",
 				"IsLaser"
             ]
         },
@@ -25,7 +24,7 @@
     ],
     "AmmoCategory" : "NotSet",
     "StartingAmmoCapacity" : 0,
-    "HeatGenerated" : 12,
+    "HeatGenerated" : 6,
     "Damage" : 25,
     "OverheatedDamageMultiplier" : 0,
     "EvasiveDamageMultiplier" : 0,

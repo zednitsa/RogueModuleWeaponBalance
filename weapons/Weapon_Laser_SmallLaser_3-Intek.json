@@ -4,8 +4,8 @@
         "BonusDescriptions": {
             "Bonuses": [
                 "Range: +50%",
+                "WpnAccuracy: +1",
                 "PipsIgnored: 1",
-				"WpnHeat: +6",
 				"IsLaser"
             ]
         },	
@@ -26,14 +26,14 @@
     ],
     "AmmoCategory" : "NotSet",
     "StartingAmmoCapacity" : 0,
-    "HeatGenerated" : 16,
+    "HeatGenerated" : 6,
     "Damage" : 25,
     "OverheatedDamageMultiplier" : 0,
     "EvasiveDamageMultiplier" : 0,
     "EvasivePipsIgnored" : 1,
     "DamageVariance" : 0,
     "HeatDamage" : 0,
-    "AccuracyModifier" : -1,
+    "AccuracyModifier" : -2,
     "CriticalChanceMultiplier" : 1,
     "AOECapable" : false,
     "IndirectFireCapable" : false,

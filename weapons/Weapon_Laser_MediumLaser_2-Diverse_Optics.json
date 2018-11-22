@@ -5,7 +5,6 @@
             "Bonuses": [
                 "WpnAccuracy: +1",				
 				"WpnCrits: 25%",
-				"WpnHeat: +2",
 				"IsLaser"
             ]
         },	
@@ -26,7 +25,7 @@
     ],
     "AmmoCategory" : "NotSet",
     "StartingAmmoCapacity" : 0,
-    "HeatGenerated" : 12,
+    "HeatGenerated" : 10,
     "Damage" : 25,
     "OverheatedDamageMultiplier" : 0,
     "EvasiveDamageMultiplier" : 0,

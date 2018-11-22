@@ -3,16 +3,20 @@
 	"Custom": {
         "BonusDescriptions": {
             "Bonuses": [
-                "Range: 50%",
+				"LaserDamage: +5",
+				"WpnCrits: 50%",
+				"Range: 50%",
+                "WpnAccuracy: +3",
+				"PipsIgnored: 2",
+				"WpnHeat: -2",
 				"IsLaser"
             ]
         },	
             "InventorySorter" : {
-                "SortKey" : "02002"
+                "SortKey" : "02008"
             }
 		},
-		
-    "Category" : "Energy",
+    "Category" : "AntiPersonnel",
     "Type" : "Laser",
     "WeaponSubType" : "SmallLaser",
     "MinRange" : 0,
@@ -24,37 +28,37 @@
     ],
     "AmmoCategory" : "NotSet",
     "StartingAmmoCapacity" : 0,
-    "HeatGenerated" : 6,
-    "Damage" : 15,
+    "HeatGenerated" : 4,
+    "Damage" : 20,
     "OverheatedDamageMultiplier" : 0,
     "EvasiveDamageMultiplier" : 0,
     "EvasivePipsIgnored" : 0,
     "DamageVariance" : 0,
     "HeatDamage" : 0,
-    "AccuracyModifier" : -1,
-    "CriticalChanceMultiplier" : 1.0,
+    "AccuracyModifier" : -4,
+    "CriticalChanceMultiplier" : 1.5,
     "AOECapable" : false,
     "IndirectFireCapable" : false,
     "RefireModifier" : 0,
     "ShotsWhenFired" : 1,
     "ProjectilesPerShot" : 1,
     "AttackRecoil" : 0,
-    "Instability" : 2.5,
+    "Instability" : 0,
     "WeaponEffectID" : "WeaponEffect-Weapon_Laser_Small",
     "Description" : {
-        "Cost" : 30000,
-        "Rarity" : 2,
+        "Cost" : 160000,
+        "Rarity" : 7,
         "Purchasable" : true,
-        "Manufacturer" : "ExoStar",
+        "Manufacturer" : "Sargus Yards",
         "Model" : "Small Laser",
-        "UIName" : "Small Laser + +",
-        "Id" : "Weapon_Laser_SmallLaser_2-ExoStar",
-        "Name" : "S Laser + +",
+        "UIName" : "S Laser + + + +",
+        "Id" : "Weapon_Laser_SmallLaser_4-Sargus",
+        "Name" : "S Laser + + + +",
         "Details" : "Small Lasers deal superb damage for their weight and heat generation but have extremely limited range. Like all Lasers, Small Lasers enjoy a baseline accuracy bonus over other weapons.",
-        "Icon" : "uixSvgIcon_weapon_Energy"
+        "Icon" : "uixSvgIcon_weapon_Support"
     },
-    "BonusValueA" : "+ 50% Range.",
-    "BonusValueB" : "",
+    "BonusValueA" : "+ 10D + 50%C",
+    "BonusValueB" : "+ 6A + 30R",
     "ComponentType" : "Weapon",
     "ComponentSubType" : "Weapon",
     "PrefabIdentifier" : "Laser",
@@ -70,7 +74,7 @@
     "ComponentTags" : {
         "items" : [
             "component_type_variant",
-            "component_type_variant2",
+            "component_type_variant4",
             "range_close"
         ],
         "tagSetSourceFile" : ""

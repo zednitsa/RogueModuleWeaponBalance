@@ -3,18 +3,19 @@
 	"Custom": {
         "BonusDescriptions": {
             "Bonuses": [
-                "PipsIgnored: 1",
-                "WpnAccuracy: +2",
+				"LaserDamage: +10",
+				"WpnCrits: 75%",
 				"Range: 20%",
-				"WpnCrits: 50%",
+                "WpnAccuracy: +3",
+				"PipsIgnored: 2",
+				"WpnHeat: -2",
 				"IsLaser"
             ]
         },	
             "InventorySorter" : {
-                "SortKey" : "02005"
+                "SortKey" : "02008"
             }
 		},
-		
     "Category" : "Energy",
     "Type" : "Laser",
     "WeaponSubType" : "MediumLaser",
@@ -27,37 +28,37 @@
     ],
     "AmmoCategory" : "NotSet",
     "StartingAmmoCapacity" : 0,
-    "HeatGenerated" : 10,
-    "Damage" : 25,
+    "HeatGenerated" : 8,
+    "Damage" : 35,
     "OverheatedDamageMultiplier" : 0,
     "EvasiveDamageMultiplier" : 0,
-    "EvasivePipsIgnored" : 1,
+    "EvasivePipsIgnored" : 2,
     "DamageVariance" : 0,
     "HeatDamage" : 0,
-    "AccuracyModifier" : -3,
-    "CriticalChanceMultiplier" : 1.5,
+    "AccuracyModifier" : -4,
+    "CriticalChanceMultiplier" : 1.75,
     "AOECapable" : false,
     "IndirectFireCapable" : false,
     "RefireModifier" : 0,
     "ShotsWhenFired" : 1,
     "ProjectilesPerShot" : 1,
     "AttackRecoil" : 1,
-    "Instability" : 4.1,
+    "Instability" : 0,
     "WeaponEffectID" : "WeaponEffect-Weapon_Laser_Medium",
     "Description" : {
-        "Cost" : 120000,
-        "Rarity" : 5,
+        "Cost" : 480000,
+        "Rarity" : 7,
         "Purchasable" : true,
-        "Manufacturer" : "Diverse Optics",
+        "Manufacturer" : "Sargus Yards",
         "Model" : "Medium Laser",
-        "UIName" : "Medium Laser + + +",
-        "Id" : "Weapon_Laser_MediumLaser_3-Diverse_Optics",
-        "Name" : "M Laser + + +",
+        "UIName" : "Medium Laser + + + +",
+        "Id" : "Weapon_Laser_MediumLaser_4-Sargus",
+        "Name" : "M Laser + + + +",
         "Details" : "Medium Lasers are lightweight with respectable damage. Because of this, at least one can be found mounted on most units that cross the battlefield. Like all Lasers, Medium Lasers enjoy a baseline accuracy bonus over other weapons.",
         "Icon" : "uixSvgIcon_weapon_Energy"
     },
-    "BonusValueA" : "+ 1 Acc. +1 Evasive Ignore",
-    "BonusValueB" : "+ 50% Crit.",
+    "BonusValueA" : "+ 10D + 50%C",
+    "BonusValueB" : "+ 6A + 50R",
     "ComponentType" : "Weapon",
     "ComponentSubType" : "Weapon",
     "PrefabIdentifier" : "Laser",
@@ -73,7 +74,7 @@
     "ComponentTags" : {
         "items" : [
             "component_type_variant",
-            "component_type_variant3",
+            "component_type_variant4",
             "range_standard"
         ],
         "tagSetSourceFile" : ""
