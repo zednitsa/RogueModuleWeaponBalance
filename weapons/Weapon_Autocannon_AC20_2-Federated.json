@@ -4,7 +4,6 @@
         "BonusDescriptions": {
             "Bonuses": [
                 "WpnCrits: 50%",
-				"StabDamage: -50%",
 				"WpnRecoil: 2",
 				"IsAC"
             ]
@@ -41,7 +40,7 @@
     "ShotsWhenFired" : 1,
     "ProjectilesPerShot" : 1,
     "AttackRecoil" : 4,
-    "Instability" : 12.5,
+    "Instability" : 25,
     "WeaponEffectID" : "WeaponEffect-Weapon_AC20_Single",
     "Description" : {
         "Cost" : 190000,

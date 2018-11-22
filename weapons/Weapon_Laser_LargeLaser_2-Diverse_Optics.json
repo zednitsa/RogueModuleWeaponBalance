@@ -4,7 +4,7 @@
         "BonusDescriptions": {
             "Bonuses": [
 				"PipsIgnored: 1",
-                "WpnAccuracy: +3",
+                "WpnAccuracy: +2",
 				"IsLaser"
             ]
         },	
@@ -32,7 +32,7 @@
     "EvasivePipsIgnored" : 1,
     "DamageVariance" : 0,
     "HeatDamage" : 0,
-    "AccuracyModifier" : -4,
+    "AccuracyModifier" : -3,
     "CriticalChanceMultiplier" : 1,
     "AOECapable" : false,
     "IndirectFireCapable" : false,

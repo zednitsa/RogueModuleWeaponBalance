@@ -3,11 +3,11 @@
 	"Custom": {
         "BonusDescriptions": {
             "Bonuses": [
-				"PipsIgnored: 1",
-				"WpnAccuracy: +4",
 				"StabDamage: X2",
-				"WpnCrits: 50%",
                 "Range: 16%",
+				"WpnAccuracy: +2",
+				"PipsIgnored: 1",
+				"WpnCrits: 50%",
 				"IsAC"
             ]
         },	
@@ -35,7 +35,7 @@
     "EvasivePipsIgnored" : 1,
     "DamageVariance" : 0,
     "HeatDamage" : 0,
-    "AccuracyModifier" : -4,
+    "AccuracyModifier" : -2,
     "CriticalChanceMultiplier" : 1.5,
     "AOECapable" : false,
     "IndirectFireCapable" : false,

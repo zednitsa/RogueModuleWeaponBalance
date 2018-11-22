@@ -5,7 +5,7 @@
             "Bonuses": [
 				"ACDamage: +10",
 				"StabDamage: +50%",
-				"WpnRecoil: 4",
+				"WpnRecoil: 2",
 				"IsAC"
             ]
         },	
@@ -37,7 +37,7 @@
     "CriticalChanceMultiplier" : 1,
     "AOECapable" : false,
     "IndirectFireCapable" : false,
-    "RefireModifier" : 4,
+    "RefireModifier" : 2,
     "ShotsWhenFired" : 1,
     "ProjectilesPerShot" : 1,
     "AttackRecoil" : 4,

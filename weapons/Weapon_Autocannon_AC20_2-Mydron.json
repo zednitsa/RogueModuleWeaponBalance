@@ -4,7 +4,6 @@
         "BonusDescriptions": {
             "Bonuses": [
 				"StabDamage: X2",
-				"WpnHeat: +5",
 				"WpnRecoil: 2",
 				"IsAC"
             ]
@@ -26,7 +25,7 @@
     ],
     "AmmoCategory" : "AC20",
     "StartingAmmoCapacity" : 0,
-    "HeatGenerated" : 25,
+    "HeatGenerated" : 20,
     "Damage" : 100,
     "OverheatedDamageMultiplier" : 0,
     "EvasiveDamageMultiplier" : 0,

@@ -1,12 +1,31 @@
 {
+
+	"Custom": {
+        "BonusDescriptions": {
+            "Bonuses": [
+				"ACDamage: +30",
+				"WpnCrits: 75%",
+				"StabDamage: X2",
+                "Range: 50%",
+                "WpnAccuracy: +3",
+				"PipsIgnored: 2",
+				"WpnRecoil: 2",
+				"IsAC"
+            ]
+        },	
+            "InventorySorter" : {
+                "SortKey" : "01004"
+            }
+		},
+		
     "Category" : "Ballistic",
     "Type" : "Autocannon",
     "WeaponSubType" : "AC20",
     "MinRange" : 0,
-    "MaxRange" : 320,
+    "MaxRange" : 380,
     "RangeSplit" : [
-        180,
-        180,
+        135,
+        230,
         320
     ],
     "AmmoCategory" : "AC20",
@@ -15,22 +34,22 @@
     "Damage" : 130,
     "OverheatedDamageMultiplier" : 0,
     "EvasiveDamageMultiplier" : 0,
-    "EvasivePipsIgnored" : 0,
+    "EvasivePipsIgnored" : 2,
     "DamageVariance" : 0,
     "HeatDamage" : 0,
-    "AccuracyModifier" : -5,
-    "CriticalChanceMultiplier" : 1.5,
+    "AccuracyModifier" : -3,
+    "CriticalChanceMultiplier" : 1.75,
     "AOECapable" : false,
     "IndirectFireCapable" : false,
     "RefireModifier" : 2,
     "ShotsWhenFired" : 1,
-    "ProjectilesPerShot" : 3,
+    "ProjectilesPerShot" : 1,
     "AttackRecoil" : 4,
-    "Instability" : 80,
+    "Instability" : 60,
     "WeaponEffectID" : "WeaponEffect-Weapon_AC20_Single",
     "Description" : {
         "Cost" : 2180000,
-        "Rarity" : 5,
+        "Rarity" : 7,
         "Purchasable" : true,
         "Manufacturer" : "Sargus Yards",
         "Model" : "Shredder Autocannon",

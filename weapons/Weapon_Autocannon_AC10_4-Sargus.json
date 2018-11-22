@@ -3,12 +3,12 @@
 	"Custom": {
         "BonusDescriptions": {
             "Bonuses": [
-				"ACDamage: +30",
+				"ACDamage: +20",
                 "WpnCrits: 75%",
 				"StabDamage: X2",
                 "Range: 32%",
-				"PipsIgnored: 2",
 				"WpnAccuracy: +3",
+				"PipsIgnored: 2",
 				"WpnRecoil: 2",
 				"IsAC"
             ]
@@ -31,7 +31,7 @@
     "AmmoCategory" : "AC10",
     "StartingAmmoCapacity" : 0,
     "HeatGenerated" : 12,
-    "Damage" : 90,
+    "Damage" : 80,
     "OverheatedDamageMultiplier" : 0,
     "EvasiveDamageMultiplier" : 0,
     "EvasivePipsIgnored" : 2,
@@ -66,7 +66,7 @@
     "PrefabIdentifier" : "AC10",
     "BattleValue" : 0,
     "InventorySize" : 3,
-    "Tonnage" : 9,
+    "Tonnage" : 10,
     "AllowedLocations" : "All",
     "DisallowedLocations" : "All",
     "CriticalComponent" : false,

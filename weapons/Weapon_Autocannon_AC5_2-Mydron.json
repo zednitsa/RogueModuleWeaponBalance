@@ -4,7 +4,7 @@
         "BonusDescriptions": {
             "Bonuses": [
                 "Range: 16%",
-                "WpnAccuracy: +2",
+                "WpnAccuracy: +1",
 				"StabDamage: +50%",
 				"WpnRecoil: 1",
 				"IsAC"

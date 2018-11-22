@@ -4,7 +4,7 @@
         "BonusDescriptions": {
             "Bonuses": [
 				"PipsIgnored: 1",
-                "WpnAccuracy: +4",
+                "WpnAccuracy: +2",
                 "Range: 16%",
 				"IsAC"
             ]
@@ -33,7 +33,7 @@
     "EvasivePipsIgnored" : 1,
     "DamageVariance" : 0,
     "HeatDamage" : 0,
-    "AccuracyModifier" : -4,
+    "AccuracyModifier" : -2,
     "CriticalChanceMultiplier" : 1,
     "AOECapable" : false,
     "IndirectFireCapable" : false,

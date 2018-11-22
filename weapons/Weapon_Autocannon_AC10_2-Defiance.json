@@ -3,7 +3,7 @@
 	"Custom": {
         "BonusDescriptions": {
             "Bonuses": [
-				"WpnAccuracy: -2",
+				"WpnAccuracy: +2",
 				"PipsIgnored: 1",
                 "Range: 16%",
 				"IsAC"

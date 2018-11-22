@@ -5,8 +5,7 @@
             "Bonuses": [
 			"WpnBonus",
 				"ACDamage: +20",
-				"WpnHeat: +5",
-				"WpnRecoil: 3",
+				"WpnRecoil: 2",
 				"IsAC"
             ]
         },	
@@ -27,7 +26,7 @@
     ],
     "AmmoCategory" : "AC20",
     "StartingAmmoCapacity" : 0,
-    "HeatGenerated" : 25,
+    "HeatGenerated" : 20,
     "Damage" : 120,
     "OverheatedDamageMultiplier" : 0,
     "EvasiveDamageMultiplier" : 0,
@@ -38,7 +37,7 @@
     "CriticalChanceMultiplier" : 1,
     "AOECapable" : false,
     "IndirectFireCapable" : false,
-    "RefireModifier" : 3,
+    "RefireModifier" : 2,
     "ShotsWhenFired" : 1,
     "ProjectilesPerShot" : 1,
     "AttackRecoil" : 4,
